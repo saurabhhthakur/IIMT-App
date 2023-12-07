@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">IIMT Aligarh</string>
+    <string name="clg_name">Institute of Information \nManagement &#38; Technology,\nAligarh</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="login_after_text_main">Discover your \nDream job Here</string>
+    <string name="login_after_text">Explore all the most exiting jobs roles \nbased on your interest And study major</string>
+
+    <string name="no_internet">No Internet Connection Please check your internet connection and try again.</string>
+
+    // Login Activity
+    <string name="username">Email*</string>
+    <string name="password">Password*</string>
+    <string name="login">Sign In</string>
+    <string name="forgetPassword">Forgot Password?</string>
+    <string name="hello">Hello Again!</string>
+    <string name="register">Register now</string>
+    <string name="member">Not a member?</string>
+    <string name="orContinue">Or continue with</string>
+    <string name="welcome">Welcome TO IIMT College</string>
+
+    // Dashboard fragment
+    <string name="fullname">Full Name* </string>
+    <string name="course">Course*</string>
+    <string name="email">Email*</string>
+    <string name="phone">Phone Number*</string>
+    <string name="dob">Date of Birth (dd-mm-yyyy)*</string>
+    <string name="usr_address">Full Address*</string>
+    <string name="submit">Submit</string>
+    <string name="logout">Logout</string>
+
+
+    // sign up
+    <string name="signup">Sign up</string>
+
+
+    // Admission
+    <string name="admission">Admissions</string>
+    <string name="logo">Logo</string>
+    <string name="bca">Bca</string>
+    <string name="bsc">B.sc</string>
+    <string name="msc">M.sc</string>
+    <string name="bcom">B.com</string>
+    <string name="mcom">M.com</string>
+    <string name="bba">Bba</string>
+
+    //Home
+    <string name="tryAgain">Try Again</string>
+    <string name="aboutiimt">The Institute of Information, Management and Technology (IIMT) is a premier institution based in Aligarh, Uttar Pradesh, Established in 2000 by Manas Sewa Samiti. The Institute has achieved a status of distinction by following the path envisioned by its founder Dr. D.S. Mahalwar, a renowned educationist.
+The Institute offers UG &#38; PG programmes in various streams like Education, Management, Commerce, Computer Science, Basic Science &#38; Life Science. It caters to more than 2500 students with well-qualified and experienced faculty members.
+The Institute believes in serious academic pursuit and encourages original and innovative thinking through debates, discussions, and other co-curricular and extracurricular activities at all levels. By embodying the principles of entrepreneurship, excellence, and professionalism, IIMT has produced a new generation of managers and professionals over the years.</string>
+
+    <string name="about">About IIMT</string>
+    <string name="map">Map</string>
+    <string name="marquee">New Update is Available on your application Please Check The Notification</string>
+    <string name="founder">Founder of IIMT</string>
+    <string name="founder_name">(Late Dr. D. S. Mahalwar)\nFounder Chairman, IIMT</string>
+    <string name="founder_history">The popular Chinese proverb states, “If you are planning for a year, sow rice; if you are planning for a decade, plant trees; if you are planning for a lifetime, educate people.” This sums up the entire philosophy of the time and life of Dr.D.S.Mahalwar, a visionary who built the entire edifice of the IIMT Group of Institutions. He always inspired the faculty and students to believe in the philosophy of Ambition, Action, and Achievement.</string>
+    <string name="address">Panchsheel Colony, Ramghat Road, Aligarh, Uttar Pradesh 202001</string>
+    <string name="address2">Panchsheel Colony,\nRamghat Road,\nAligarh,\nUttar Pradesh 202001</string>
+    <string name="phone2">+91-9917464291\n+91-8193001555\n+91-9389767339</string>
+    <string name="email2">info@iimtaligarh.com\niimtaligarh@gmail.com</string>
+
+
+    <string name="logo1">Logo1</string>
+    <string name="logo2">Logo2</string>
+    <string name="logo3">Logo3</string>
+    <string name="logo4">Logo4</string>
+    <string name="logo5">Logo5</string>
+    <string name="logo6">Logo6</string>
+    <string name="no_notificaton">No Notification</string>
+    <string name="msg">Message</string>
+    <string name="feedback">Give your Feedback</string>
+    <string name="send">Send Message</string>
+
+
+</resources>

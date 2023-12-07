@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_fragment_logo"
+        app:cnb_iconColor="@color/black"
+        app:cnb_textColor="@color/black"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/admission"
+        app:cnb_iconColor="@color/black"
+        android:icon="@drawable/admission_fragment_logo"
+        android:title="Admission" />
+
+    <item
+        android:id="@+id/notification"
+        app:cnb_iconColor="@color/black"
+        android:icon="@drawable/notifications"
+        android:title="Notification"/>
+
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/about_us"
+        app:cnb_iconColor="@color/black"
+        android:title="About us" />
+
+
+</menu>

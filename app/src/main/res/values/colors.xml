@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#D50000</color>
+
+    <color name="yellow">#FFEB3B</color>
+
+    <color name="purple">#0000FF</color>
+
+    <!--71797E-->
+
+    <color name="tiles">#595656</color>
+    <color name="tiles_two">#00000000</color>
+
+
+    <color name="toolbar">#B54040</color>
+
+
+    <color name="white_custom">#FDFDFD</color>
+
+
+    <color name="grey">#837C7C</color>
+    <color name="login_background">#E1E0E0</color>
+
+
+    <color name="admission_fragment">#2E70AC</color>
+
+
+</resources>

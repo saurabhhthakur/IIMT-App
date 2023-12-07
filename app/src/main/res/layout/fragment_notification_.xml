@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/notification_Layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.Notification_Fragment">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/notificationToolbar"
+        android:layout_width="match_parent"
+        android:background="@color/white_custom"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:title="Notification"
+            app:titleMarginStart="5dp" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_below="@+id/notificationToolbar"
+        android:foreground="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:id="@+id/recyclarView"
+        tools:listitem="@layout/notification"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/notification_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"
+        android:gravity="center"
+        android:text="@string/no_notificaton"
+        android:textSize="20sp"/>
+
+</RelativeLayout>

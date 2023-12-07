@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "293672656933",
+    "firebase_url": "https://iimt-aligarh-f4e1d-default-rtdb.firebaseio.com",
+    "project_id": "iimt-aligarh-f4e1d",
+    "storage_bucket": "iimt-aligarh-f4e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293672656933:android:c6a3b218b4855476c5dfcc",
+        "android_client_info": {
+          "package_name": "com.example.iimtaligarh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi1Aq1iJxGi5z7OqNwy2RQ264nB94ZboA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
